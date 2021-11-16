@@ -65,4 +65,5 @@
 ### 5. Intro to AI
 ### 6. Machine Learning Application
 ### 7. Deep Learning Application
+### BONUS : PivotTable, PivotChart and Lookup Functions
 
