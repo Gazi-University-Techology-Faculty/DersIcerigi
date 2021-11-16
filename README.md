@@ -1,4 +1,4 @@
-# Course Intro
+# Ders İçeriği
 ### 1. Python
 
 **1.1 Introduction**
@@ -10,7 +10,7 @@
 * Functions
 
 **1.2 Working With Data**
-* Datatypes and Data Structures
+* Data Types and Data Structures
 * Containers
 * Formatted Output
 * Sequences
@@ -57,7 +57,7 @@
 **1.9 Packages**
 * Packages
 * Third-Party
-* Distibution
+* Distribution
 
 ### 2. Data Analysis with Numpy, Pandas and Matplotlib
 ### 3. Image Recognition with OpenCV
